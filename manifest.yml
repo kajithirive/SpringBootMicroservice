@@ -1,5 +1,5 @@
 applications:
-- name: kaji
+- name: kaji1
   buildpack: https://github.com/cloudfoundry/java-buildpack.git
   instances: 1
   memory: 250M
